@@ -66,8 +66,8 @@
         {
           "name": "Reps Council - Driving projects",
           "description": "I keep driving at least 2 projects at Council level",
-          "progress": 0.5,
-          "score": "0.4",
+          "progress": 0.6,
+          "score": "0.6",
           "scoring": {
             "0.2": "Two projects are identified",
             "0.4": "25% of the projects are done",
@@ -78,8 +78,8 @@
         }, {
           "name": "Reps Council - Meetings and Feedback",
           "description": "At least 80% of meetings I attend and give feedback within 72 hours",
-          "progress": 0.4,
-          "score": "0.4",
+          "progress": 0.6,
+          "score": "0.6",
           "scoring": {
             "0.2": "Objective is achieved to 20%",
             "0.4": "Objective is achieved to 40%",
@@ -100,8 +100,8 @@
         }, {
           "name": "Participation Tools",
           "description": "At least 2 PoC delivered",
-          "progress": 0.4,
-          "score": "0.4",
+          "progress": 0.6,
+          "score": "0.6",
           "scoring": {
             "0.2": "Two projects are identified",
             "0.4": "25% of the projects are done",
@@ -112,8 +112,8 @@
         }, {
           "name": "Mozilla Switzerland - Events",
           "description": "Organize an event every month",
-          "progress": 0.2,
-          "score": "0.0",
+          "progress": 0.4,
+          "score": "0.33",
           "scoring": {
             "0.33": "1 event is organized and done",
             "0.66": "2 events are organized and done",
@@ -153,8 +153,8 @@
         }, {
           "name": "Module interaction",
           "description": "",
-          "progress": 0.5,
-          "score": "0.5",
+          "progress": 1.0,
+          "score": "1.0",
           "scoring": {
             "0.5": "One other module interacted with",
             "1.0": "Two other modules interacted with"
