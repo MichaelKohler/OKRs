@@ -8,8 +8,7 @@ class Overview extends React.Component {
     return (
       <div className="container">
         <section>
-          <div className="row">
-          </div>
+          <div className="row" />
 
           {/* <!-- TODO: make more dynamic with routing? */}
           <h1>2018 - Q1</h1>

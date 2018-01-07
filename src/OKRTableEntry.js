@@ -9,7 +9,7 @@ class OKRTableEntry extends React.Component {
     return (
       <tr>
         <td>{KeyResult.title}</td>
-        <td>{KeyResult.metrics.current / KeyResult.metrics.total * 100} %</td>
+        <td>{(KeyResult.metrics.current / KeyResult.metrics.total) * 100} %</td>
         <td>{KeyResult.metrics.current}</td>
         <td>{KeyResult.metrics.total}</td>
         <td>{KeyResult.metrics.final}</td>
