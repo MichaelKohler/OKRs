@@ -1,23 +1,42 @@
 {
   "name": "michael-okrs",
   "version": "1.0.0",
-  "author": "Eli Perelman <eli@eliperelman.com>",
-  "license": "MPL-2.0",
-  "config": {
-    "preset": "preset.js"
-  },
-  "scripts": {
-    "start": "PORT=4400 neutrino start",
-    "build": "neutrino build"
+  "description": "Michael Kohler's OKRs",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "devDependencies": {
-    "bootstrap": "4.0.0-alpha.5",
-    "neutrino": "^3.0.0",
-    "neutrino-preset-react": "^2.1.0",
-    "react": "^15.4.1",
-    "react-addons-css-transition-group": "^15.4.1",
-    "react-addons-transition-group": "^15.4.1",
-    "react-dom": "^15.4.1",
-    "reactstrap": "^3.9.2"
-  }
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "copy-webpack-plugin": "^4.3.1",
+    "css-loader": "^0.28.8",
+    "eslint": "^4.14.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "node-sass": "^4.7.2",
+    "pm2": "^2.9.1",
+    "react-hot-loader": "^3.1.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.0"
+  },
+  "scripts": {
+    "build": "./node_modules/webpack/bin/webpack.js -p",
+    "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --progress --colors --inline",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Kohler",
+  "license": "MPL-2.0"
 }
