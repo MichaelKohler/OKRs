@@ -28,7 +28,7 @@ class OKRTable extends React.Component {
             <tr>
               <th>Description</th>
               <th>Score</th>
-              <th>Risk</th>
+              <th>Confidence</th>
               <th>Current</th>
               <th>Total</th>
               <th>Final</th>

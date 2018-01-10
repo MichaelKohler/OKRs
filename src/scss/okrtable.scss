@@ -47,20 +47,20 @@ table {
   }
 
   .risk-indicator {
-    display: block;
+    display: inline-block;
     width: 15px;
     height: 15px;
 
-    &.high {
-      background-color: red;
+    &.low {
+      background-color: #C9002B;
     }
 
     &.middle {
-      background-color: yellow;
+      background-color: #F7E036;
     }
 
-    &.low {
-      background-color: green;
+    &.high {
+      background-color: #57B750;
     }
   }
 }
