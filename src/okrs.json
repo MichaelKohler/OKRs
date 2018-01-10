@@ -5,24 +5,28 @@
         "title": "Mozilla Reps",
         "keyResults": [{
           "title": "Consult on implementing Mission Driven Mozillians Project (Project Owner Rating)",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
           "title": "Bring Accountability and Context to Council through Peers (Council Rating)",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
           "title": "Reps Portal doesn't have major functionality missing or bugs (Council Rating)",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
           "title": "Self hosted Reps Tools are migrated to where they belong (Mentors + Anniversaries)",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 2
@@ -33,18 +37,21 @@
         "title": "Mozilla General",
         "keyResults": [{
           "title": "At least 1 Firefox bug fixed per month",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 12
           }
         }, {
           "title": "Organized at least 6 meetups",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 6
           }
         }, {
           "title": "Run at least 2 small experiments",
+          "risk": "middle",
           "metrics": {
             "current": 0,
             "total": 2
@@ -55,42 +62,49 @@
         "title": "Personal Development",
         "keyResults": [{
           "title": "Learn Python to fully support OI Products&Engineering (Team Rating)",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
           "title": "Read the JS spec (%)",
+          "risk": "middle",
           "metrics": {
             "current": 0,
             "total": 100
           }
         }, {
           "title": "Use React / Redux for at least 2 projects",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 2
           }
         }, {
           "title": "Read 10 IT related books",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 10
           }
         }, {
           "title": "Read 4 Strategic Thinking / Coaching / PM books",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
           "title": "Join 6 non-Mozilla meetups",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 6
           }
         }, {
           "title": "Learn Greek",
+          "risk": "low",
           "metrics": {
             "current": 0,
             "total": 100
@@ -104,18 +118,21 @@
           "title": "Mozilla Reps",
           "keyResults": [{
             "title": "Fix 6 Reps Portal bugs",
+            "risk": "low",
             "metrics": {
               "current": 0,
               "total": 6
             }
           }, {
-            "title": "Finish Council accountability definition",
+            "title": "Finish Council accountability definition and suggestions",
+            "risk": "low",
             "metrics": {
               "current": 0,
               "total": 100
             }
           }, {
             "title": "Migrate Mentors Overview to Reps Portal",
+            "risk": "middle",
             "metrics": {
               "current": 0,
               "total": 100
@@ -126,24 +143,28 @@
           "title": "Mozilla General",
           "keyResults": [{
             "title": "Fix 3 Firefox bugs",
+            "risk": "middle",
             "metrics": {
               "current": 0,
               "total": 3
             }
           }, {
             "title": "Organize informal Mozilla Bern meetup",
+            "risk": "low",
             "metrics": {
               "current": 50,
               "total": 100
             }
           }, {
             "title": "Help Martin organize ZH meetup",
+            "risk": "low",
             "metrics": {
               "current": 0,
               "total": 100
             }
           }, {
             "title": "10 years Mozilla blogpost written",
+            "risk": "low",
             "metrics": {
               "current": 0,
               "total": 100
@@ -154,30 +175,35 @@
           "title": "Personal Development",
           "keyResults": [{
             "title": "Read Design Pattern / Full Stack React / Django book / Bitcoin Book Princeton",
+            "risk": "low",
             "metrics": {
               "current": 1.5,
               "total": 4
             }
           }, {
             "title": "Read Tao of Coaching",
+            "risk": "middle",
             "metrics": {
               "current": 0,
               "total": 1
             }
           }, {
             "title": "Create better OKR tool with React",
+            "risk": "low",
             "metrics": {
               "current": 60,
               "total": 100
             }
           }, {
             "title": "Join 1 non-Mozilla meetup",
+            "risk": "low",
             "metrics": {
               "current": 0,
               "total": 1
             }
           }, {
             "title": "Understand basic grammar and 150 words in Greek",
+            "risk": "low",
             "metrics": {
               "current": 20,
               "total": 150

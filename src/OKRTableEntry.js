@@ -10,6 +10,7 @@ class OKRTableEntry extends React.Component {
       <tr>
         <td>{KeyResult.title}</td>
         <td>{(KeyResult.metrics.current / KeyResult.metrics.total) * 100} %</td>
+        <td><span className={'risk-indicator ' + KeyResult.risk} /></td>
         <td>{KeyResult.metrics.current}</td>
         <td>{KeyResult.metrics.total}</td>
         <td>{KeyResult.metrics.final}</td>

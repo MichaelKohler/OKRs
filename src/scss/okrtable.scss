@@ -12,7 +12,8 @@ table {
 
   th:nth-child(3),
   th:nth-child(4),
-  th:nth-child(5) {
+  th:nth-child(5),
+  th:nth-child(6) {
     width: 10%;
   }
 
@@ -43,5 +44,23 @@ table {
 
   tfoot {
     font-weight: 600;
+  }
+
+  .risk-indicator {
+    display: block;
+    width: 15px;
+    height: 15px;
+
+    &.high {
+      background-color: red;
+    }
+
+    &.middle {
+      background-color: yellow;
+    }
+
+    &.low {
+      background-color: green;
+    }
   }
 }
