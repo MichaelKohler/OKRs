@@ -1,7 +1,7 @@
 Michael's personal OKRs
 ====
 
-This project tracks my personal OKRs. This is copied from the [okr-dashboard](https://github.com/mozilla-rpweb/okr-dashboard) by mozilla-rpweb.
+This project tracks my personal OKRs.
 
 Running it locally
 ---
