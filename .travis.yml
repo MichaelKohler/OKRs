@@ -1,0 +1,16 @@
+---
+dist: trusty
+language: node_js
+node_js:
+  - 8
+  - 9
+install: true
+cache:
+  directories:
+  - node_modules
+notifications:
+  email:
+    on_success: change
+    on_failure: always
+    recipients:
+      - me@michaelkohler.info
