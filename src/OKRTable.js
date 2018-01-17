@@ -17,7 +17,8 @@ class OKRTable extends React.Component {
       totalPercentageScore: 0
     });
 
-    const totalScore = totals.totalPercentageScore / OKR.keyResults.length;
+    const totalPercentage = (totals.totalPercentageScore / OKR.keyResults.length) * 100;
+    const totalScore = Number.parseFloat(totalPercentage).toFixed(2);
 
     return (
       <section>
@@ -42,7 +43,7 @@ class OKRTable extends React.Component {
           <tfoot>
             <tr>
               <td>Total</td>
-              <td>{totalScore * 100} %</td>
+              <td>{totalScore} %</td>
               <td />
               <td />
               <td />
