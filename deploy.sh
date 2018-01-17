@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 set -x
 eval "$(ssh-agent -s)"
 openssl aes-256-cbc -K $encrypted_d1b4660665e6_key -iv $encrypted_d1b4660665e6_iv -in travis_deploy_rsa.enc -out travis_deploy_rsa -d
