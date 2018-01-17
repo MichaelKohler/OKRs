@@ -37,7 +37,7 @@
         "title": "Mozilla General",
         "keyResults": [{
           "title": "At least 1 Firefox bug fixed per month",
-          "confidence": "high",
+          "confidence": "middle",
           "metrics": {
             "current": 0,
             "total": 12
@@ -127,7 +127,7 @@
             "title": "Finish Council accountability definition and suggestions",
             "confidence": "high",
             "metrics": {
-              "current": 5,
+              "current": 10,
               "total": 100
             }
           }, {
@@ -154,7 +154,7 @@
             "title": "Organize informal Mozilla Bern meetup",
             "confidence": "high",
             "metrics": {
-              "current": 60,
+              "current": 70,
               "total": 100
             }
           }, {
@@ -169,7 +169,7 @@
             "title": "10 years Mozilla blogpost written",
             "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 5,
               "total": 100
             }
           }]
@@ -196,7 +196,7 @@
             "title": "Create better OKR tool with React",
             "confidence": "high",
             "metrics": {
-              "current": 95,
+              "current": 100,
               "total": 100
             }
           }, {
@@ -210,7 +210,7 @@
             "title": "Understand basic grammar and 150 words in Greek",
             "confidence": "high",
             "metrics": {
-              "current": 25,
+              "current": 30,
               "total": 150
             }
           }]
