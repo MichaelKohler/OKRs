@@ -7,15 +7,16 @@ install: true
 cache:
   directories:
   - node_modules
-notifications:
-  email:
-    on_success: change
-    on_failure: always
-    recipients:
-      - me@michaelkohler.info
+script: npm run build
 deploy:
   provider: script
   skip_cleanup: true
   script: ./deploy.sh
   on:
     branch: master
+notifications:
+  email:
+    on_success: change
+    on_failure: always
+    recipients:
+      - me@michaelkohler.info
