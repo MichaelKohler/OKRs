@@ -9,15 +9,15 @@ class OKRTable extends React.Component {
     const totals = OKR.keyResults.reduce((totalAccumulator, keyResult) => {
       const countingTotals = totalAccumulator;
       countingTotals.current += keyResult.metrics.current;
-      countingTotals.total += keyResult.metrics.total;
+      countingTotals.totalPercentageScore += keyResult.metrics.current / keyResult.metrics.total;
 
       return countingTotals;
     }, {
       current: 0,
-      total: 0
+      totalPercentageScore: 0
     });
 
-    const totalScore = totals.current / totals.total;
+    const totalScore = totals.totalPercentageScore / OKR.keyResults.length;
 
     return (
       <section>
