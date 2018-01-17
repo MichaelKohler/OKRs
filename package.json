@@ -2,6 +2,8 @@
   "name": "michael-okrs",
   "version": "1.0.0",
   "description": "Michael Kohler's OKRs",
+  "author": "Michael Kohler",
+  "license": "MPL-2.0",
   "main": "main.js",
   "dependencies": {
     "express": "^4.16.2",
@@ -43,6 +45,8 @@
     "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --progress --colors --inline",
     "test": "jest"
   },
-  "author": "Michael Kohler",
-  "license": "MPL-2.0"
+  "jest": {
+    "collectCoverage": true,
+    "coverageFormats": ["json", "html"]
+  }
 }
