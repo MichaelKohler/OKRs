@@ -1,7 +1,6 @@
 import React from 'react';
 import OKRs from './okrs.json';
 import OKRTable from './OKRTable';
-import './scss/overview.scss';
 
 class Overview extends React.Component {
   render() {

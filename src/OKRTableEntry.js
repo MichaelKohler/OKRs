@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './scss/okrtable.scss';
 
 class OKRTableEntry extends React.Component {
   render() {
