@@ -28,7 +28,7 @@
           "title": "Self hosted Reps Tools are migrated to where they belong (Mentors + Anniversaries)",
           "confidence": "high",
           "metrics": {
-            "current": 0,
+            "current": 0.2,
             "total": 2
           }
         }]
@@ -46,7 +46,7 @@
           "title": "Organized at least 6 meetups",
           "confidence": "high",
           "metrics": {
-            "current": 0,
+            "current": 0.8,
             "total": 6
           }
         }, {
@@ -85,7 +85,7 @@
           "title": "Read 10 IT related books",
           "confidence": "high",
           "metrics": {
-            "current": 1,
+            "current": 2,
             "total": 10
           }
         }, {
@@ -106,7 +106,7 @@
           "title": "Learn Greek",
           "confidence": "high",
           "metrics": {
-            "current": 1,
+            "current": 5,
             "total": 100
           }
         }]
@@ -120,14 +120,14 @@
             "title": "Fix 6 Reps Portal bugs",
             "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 0.8,
               "total": 6
             }
           }, {
             "title": "Finish Council accountability definition and suggestions",
             "confidence": "high",
             "metrics": {
-              "current": 10,
+              "current": 15,
               "total": 100
             }
           }, {
@@ -135,7 +135,7 @@
             "confidence": "middle",
             "tendency": "↑",
             "metrics": {
-              "current": 0,
+              "current": 20,
               "total": 100
             }
           }]
@@ -154,7 +154,7 @@
             "title": "Organize informal Mozilla Bern meetup",
             "confidence": "high",
             "metrics": {
-              "current": 70,
+              "current": 80,
               "total": 100
             }
           }, {
@@ -181,7 +181,7 @@
             "confidence": "high",
             "tendency": "↓",
             "metrics": {
-              "current": 1.5,
+              "current": 2,
               "total": 4
             }
           }, {
@@ -210,7 +210,7 @@
             "title": "Understand basic grammar and 150 words in Greek",
             "confidence": "high",
             "metrics": {
-              "current": 30,
+              "current": 110,
               "total": 150
             }
           }]
