@@ -120,7 +120,7 @@
             "title": "Fix 6 Reps Portal bugs",
             "confidence": "high",
             "metrics": {
-              "current": 0.8,
+              "current": 5,
               "total": 6
             }
           }, {
@@ -154,7 +154,7 @@
             "title": "Organize informal Mozilla Bern meetup",
             "confidence": "high",
             "metrics": {
-              "current": 80,
+              "current": 85,
               "total": 100
             }
           }, {
@@ -181,7 +181,7 @@
             "confidence": "high",
             "tendency": "↓",
             "metrics": {
-              "current": 2,
+              "current": 2.25,
               "total": 4
             }
           }, {
