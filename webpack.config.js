@@ -1,5 +1,4 @@
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
-const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 function getDevTool() {
   if (process.env.NODE_ENV !== 'production') {
@@ -38,9 +37,5 @@ module.exports = {
   },
   plugins: [
     new ExtractTextPlugin('dist/main.css', { allChunks: true }),
-    new CopyWebpackPlugin([
-      { from: 'robots.txt', to: 'dist/' },
-      { from: 'index.html', to: 'dist/' },
-    ], { copyUnmodified: true })
   ]
 };

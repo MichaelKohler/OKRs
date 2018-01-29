@@ -7,4 +7,6 @@ ssh-add travis_deploy_rsa
 ssh-keyscan -H me.michaelkohler.info >> ~/.ssh/known_hosts
 
 rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/index.html travis@me.michaelkohler.info:/var/www/html/okrs/
+rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/favicon.ico travis@me.michaelkohler.info:/var/www/html/okrs/
+rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/robots.txt travis@me.michaelkohler.info:/var/www/html/okrs/
 rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/dist/* travis@me.michaelkohler.info:/var/www/html/okrs/dist/
