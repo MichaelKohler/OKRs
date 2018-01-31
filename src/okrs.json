@@ -32,23 +32,21 @@
           "title": "Mozilla General",
           "keyResults": [{
             "title": "Fix 3 Firefox bugs",
-            "confidence": "middle",
-            "tendency": "↑",
+            "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 2,
               "total": 3
             }
           }, {
             "title": "Organize informal Mozilla Bern meetup",
             "confidence": "high",
             "metrics": {
-              "current": 85,
+              "current": 99,
               "total": 100
             }
           }, {
             "title": "Help Martin organize ZH meetup",
-            "confidence": "middle",
-            "tendency": "↑",
+            "confidence": "high",
             "metrics": {
               "current": 0,
               "total": 100
@@ -69,7 +67,7 @@
             "confidence": "high",
             "tendency": "↓",
             "metrics": {
-              "current": 2.25,
+              "current": 2.3,
               "total": 4
             }
           }, {
@@ -91,14 +89,14 @@
             "title": "Join 1 non-Mozilla meetup",
             "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 0.3,
               "total": 1
             }
           }, {
             "title": "Understand basic grammar and 150 words in Greek",
             "confidence": "high",
             "metrics": {
-              "current": 110,
+              "current": 120,
               "total": 150
             }
           }]
@@ -142,16 +140,16 @@
         "title": "Mozilla General",
         "keyResults": [{
           "title": "At least 1 Firefox bug fixed per month",
-          "confidence": "middle",
+          "confidence": "high",
           "metrics": {
             "current": 0,
             "total": 12
           }
         }, {
           "title": "Organized at least 6 meetups",
-          "confidence": "high",
+          "confidence": "middle",
           "metrics": {
-            "current": 0.8,
+            "current": 0.9,
             "total": 6
           }
         }, {
@@ -190,7 +188,7 @@
           "title": "Read 10 IT related books",
           "confidence": "high",
           "metrics": {
-            "current": 2,
+            "current": 2.3,
             "total": 10
           }
         }, {
@@ -204,14 +202,14 @@
           "title": "Join 6 non-Mozilla meetups",
           "confidence": "high",
           "metrics": {
-            "current": 0,
+            "current": 0.3,
             "total": 6
           }
         }, {
           "title": "Learn Greek",
           "confidence": "high",
           "metrics": {
-            "current": 5,
+            "current": 8,
             "total": 100
           }
         }]
