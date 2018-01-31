@@ -1,5 +1,110 @@
 {
   "2018": {
+    "quarters": {
+      "Q1": [
+        {
+          "title": "Mozilla Reps",
+          "keyResults": [{
+            "title": "Fix 6 Reps Portal bugs",
+            "confidence": "high",
+            "metrics": {
+              "current": 5,
+              "total": 6
+            }
+          }, {
+            "title": "Finish Council accountability definition and suggestions",
+            "confidence": "high",
+            "metrics": {
+              "current": 15,
+              "total": 100
+            }
+          }, {
+            "title": "Migrate Mentors Overview to Reps Portal",
+            "confidence": "middle",
+            "tendency": "↑",
+            "metrics": {
+              "current": 20,
+              "total": 100
+            }
+          }]
+        },
+        {
+          "title": "Mozilla General",
+          "keyResults": [{
+            "title": "Fix 3 Firefox bugs",
+            "confidence": "middle",
+            "tendency": "↑",
+            "metrics": {
+              "current": 0,
+              "total": 3
+            }
+          }, {
+            "title": "Organize informal Mozilla Bern meetup",
+            "confidence": "high",
+            "metrics": {
+              "current": 85,
+              "total": 100
+            }
+          }, {
+            "title": "Help Martin organize ZH meetup",
+            "confidence": "middle",
+            "tendency": "↑",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "10 years Mozilla blogpost written",
+            "confidence": "high",
+            "metrics": {
+              "current": 5,
+              "total": 100
+            }
+          }]
+        },
+        {
+          "title": "Personal Development",
+          "keyResults": [{
+            "title": "Read Design Pattern / Full Stack React / Django book / Bitcoin Book Princeton",
+            "confidence": "high",
+            "tendency": "↓",
+            "metrics": {
+              "current": 2.25,
+              "total": 4
+            }
+          }, {
+            "title": "Read Tao of Coaching",
+            "confidence": "middle",
+            "tendency": "↓",
+            "metrics": {
+              "current": 0,
+              "total": 1
+            }
+          }, {
+            "title": "Create better OKR tool with React",
+            "confidence": "high",
+            "metrics": {
+              "current": 100,
+              "total": 100
+            }
+          }, {
+            "title": "Join 1 non-Mozilla meetup",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 1
+            }
+          }, {
+            "title": "Understand basic grammar and 150 words in Greek",
+            "confidence": "high",
+            "metrics": {
+              "current": 110,
+              "total": 150
+            }
+          }]
+        }
+      ]
+    },
     "general": [
       {
         "title": "Mozilla Reps",
@@ -111,111 +216,6 @@
           }
         }]
       }
-    ],
-    "quarters": {
-      "Q1": [
-        {
-          "title": "Mozilla Reps",
-          "keyResults": [{
-            "title": "Fix 6 Reps Portal bugs",
-            "confidence": "high",
-            "metrics": {
-              "current": 5,
-              "total": 6
-            }
-          }, {
-            "title": "Finish Council accountability definition and suggestions",
-            "confidence": "high",
-            "metrics": {
-              "current": 15,
-              "total": 100
-            }
-          }, {
-            "title": "Migrate Mentors Overview to Reps Portal",
-            "confidence": "middle",
-            "tendency": "↑",
-            "metrics": {
-              "current": 20,
-              "total": 100
-            }
-          }]
-        },
-        {
-          "title": "Mozilla General",
-          "keyResults": [{
-            "title": "Fix 3 Firefox bugs",
-            "confidence": "middle",
-            "tendency": "↑",
-            "metrics": {
-              "current": 0,
-              "total": 3
-            }
-          }, {
-            "title": "Organize informal Mozilla Bern meetup",
-            "confidence": "high",
-            "metrics": {
-              "current": 85,
-              "total": 100
-            }
-          }, {
-            "title": "Help Martin organize ZH meetup",
-            "confidence": "middle",
-            "tendency": "↑",
-            "metrics": {
-              "current": 0,
-              "total": 100
-            }
-          }, {
-            "title": "10 years Mozilla blogpost written",
-            "confidence": "high",
-            "metrics": {
-              "current": 5,
-              "total": 100
-            }
-          }]
-        },
-        {
-          "title": "Personal Development",
-          "keyResults": [{
-            "title": "Read Design Pattern / Full Stack React / Django book / Bitcoin Book Princeton",
-            "confidence": "high",
-            "tendency": "↓",
-            "metrics": {
-              "current": 2.25,
-              "total": 4
-            }
-          }, {
-            "title": "Read Tao of Coaching",
-            "confidence": "middle",
-            "tendency": "↓",
-            "metrics": {
-              "current": 0,
-              "total": 1
-            }
-          }, {
-            "title": "Create better OKR tool with React",
-            "confidence": "high",
-            "metrics": {
-              "current": 100,
-              "total": 100
-            }
-          }, {
-            "title": "Join 1 non-Mozilla meetup",
-            "confidence": "high",
-            "metrics": {
-              "current": 0,
-              "total": 1
-            }
-          }, {
-            "title": "Understand basic grammar and 150 words in Greek",
-            "confidence": "high",
-            "metrics": {
-              "current": 110,
-              "total": 150
-            }
-          }]
-        }
-      ]
-    }
+    ]
   }
 }
