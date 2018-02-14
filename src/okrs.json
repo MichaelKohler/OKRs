@@ -8,14 +8,14 @@
             "title": "Fix 6 Reps Portal bugs",
             "confidence": "high",
             "metrics": {
-              "current": 6,
+              "current": 7,
               "total": 6
             }
           }, {
             "title": "Finish Council accountability definition and suggestions",
             "confidence": "high",
             "metrics": {
-              "current": 25,
+              "current": 40,
               "total": 100
             }
           }, {
@@ -34,14 +34,14 @@
             "title": "Fix 3 Firefox bugs",
             "confidence": "high",
             "metrics": {
-              "current": 3,
+              "current": 3.5,
               "total": 3
             }
           }, {
             "title": "Organize informal Mozilla Bern meetup",
             "confidence": "high",
             "metrics": {
-              "current": 99,
+              "current": 100,
               "total": 100
             }
           }, {
@@ -67,7 +67,7 @@
             "confidence": "high",
             "tendency": "↓",
             "metrics": {
-              "current": 2.4,
+              "current": 3,
               "total": 4
             }
           }, {
@@ -128,11 +128,11 @@
             "total": 4
           }
         }, {
-          "title": "Self hosted Reps Tools are migrated to where they belong (Mentors + Anniversaries)",
+          "title": "Self hosted Reps Tools are migrated to where they belong (Mentors)",
           "confidence": "high",
           "metrics": {
             "current": 0.2,
-            "total": 2
+            "total": 1
           }
         }]
       },
@@ -142,14 +142,14 @@
           "title": "At least 1 Firefox bug fixed per month",
           "confidence": "high",
           "metrics": {
-            "current": 3,
+            "current": 3.5,
             "total": 12
           }
         }, {
           "title": "Organized at least 6 meetups",
           "confidence": "middle",
           "metrics": {
-            "current": 0.9,
+            "current": 1,
             "total": 6
           }
         }, {
@@ -188,7 +188,7 @@
           "title": "Read 10 IT related books",
           "confidence": "high",
           "metrics": {
-            "current": 2.4,
+            "current": 3,
             "total": 10
           }
         }, {
@@ -209,7 +209,7 @@
           "title": "Learn Greek",
           "confidence": "high",
           "metrics": {
-            "current": 9,
+            "current": 10,
             "total": 100
           }
         }]
