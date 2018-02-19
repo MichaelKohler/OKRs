@@ -5,7 +5,7 @@
         {
           "title": "Mozilla Reps",
           "keyResults": [{
-            "title": "Fix 6 Reps Portal bugs",
+            "title": "By fixing 12 Reps Portal bugs I have a good understanding of the Reps Portal code",
             "confidence": "high",
             "metrics": {
               "current": 8,
@@ -13,14 +13,14 @@
               "correctedFrom": 6
             }
           }, {
-            "title": "Finish Council accountability definition and suggestions",
+            "title": "Council is accountable and knows what to expect and therefore is a better foundation",
             "confidence": "high",
             "metrics": {
               "current": 40,
               "total": 100
             }
           }, {
-            "title": "Migrate Mentors Overview to Reps Portal",
+            "title": "Everybody can make better decisions based on Mentors Overview directoy on the Reps Portal",
             "confidence": "middle",
             "tendency": "↑",
             "metrics": {
@@ -32,7 +32,7 @@
         {
           "title": "Mozilla General",
           "keyResults": [{
-            "title": "Fix 3 Firefox bugs",
+            "title": "By fix 5 Firefox bugs I have a general understanding of modern Firefox source code",
             "confidence": "high",
             "metrics": {
               "current": 3.5,
@@ -40,21 +40,21 @@
               "correctedFrom": 3
             }
           }, {
-            "title": "Organize informal Mozilla Bern meetup",
+            "title": "By organizing an informal Mozilla Bern meetup I initiate knowledge transfer",
             "confidence": "high",
             "metrics": {
               "current": 100,
               "total": 100
             }
           }, {
-            "title": "Help Martin organize ZH meetup",
+            "title": "By helping Martin organize a ZH meetup I continue the knowledge transfer",
             "confidence": "high",
             "metrics": {
               "current": 5,
               "total": 100
             }
           }, {
-            "title": "10 years Mozilla blogpost written",
+            "title": "I tell the world how I came to Mozilla with 10 years Mozilla blogpost written",
             "confidence": "high",
             "metrics": {
               "current": 10,
@@ -65,7 +65,7 @@
         {
           "title": "Personal Development",
           "keyResults": [{
-            "title": "Read Design Pattern / Full Stack React / Django book / Bitcoin Book Princeton",
+            "title": "Read Design Pattern / Full Stack React / Django book / Bitcoin Book Princeton allow me to get a broader view",
             "confidence": "high",
             "tendency": "↓",
             "metrics": {
@@ -73,22 +73,22 @@
               "total": 4
             }
           }, {
-            "title": "Read Tao of Coaching",
+            "title": "By read Tao of Coaching I fresh up on coaching tactics",
             "confidence": "middle",
             "tendency": "↓",
             "metrics": {
               "current": 0,
-              "total": 1
+              "total": 100
             }
           }, {
-            "title": "Create better OKR tool with React",
+            "title": "Better goal achievement by creating a new OKR tool",
             "confidence": "high",
             "metrics": {
               "current": 100,
               "total": 100
             }
           }, {
-            "title": "Join 1 non-Mozilla meetup",
+            "title": "By joining 1 non-Mozilla meetup I learned something I haven't known before",
             "confidence": "high",
             "metrics": {
               "current": 0.7,
@@ -96,7 +96,7 @@
               "correctedFrom": 1
             }
           }, {
-            "title": "Understand basic grammar and 150 words in Greek",
+            "title": "By understanding basic grammar and 150 words in Greek I can have a small conversation",
             "confidence": "high",
             "metrics": {
               "current": 120,
@@ -110,28 +110,28 @@
       {
         "title": "Mozilla Reps",
         "keyResults": [{
-          "title": "Consult on implementing Mission Driven Mozillians Project (Project Owner Rating)",
+          "title": "I show strategic thinking capabilities by giving feedback on Mission Driven Mozillians Project (Project Owner Rating)",
           "confidence": "high",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
-          "title": "Bring Accountability and Context to Council through Peers (Council Rating)",
+          "title": "I bring Accountability and Context to Council through Peers (Council Rating)",
           "confidence": "high",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
-          "title": "Reps Portal doesn't have major functionality missing or bugs (Council Rating)",
+          "title": "Reps Portal without major functionality missing or bugs allows Reps to be efficient (Council Rating)",
           "confidence": "high",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
-          "title": "Self hosted Reps Tools are migrated to where they belong (Mentors)",
+          "title": "By migrating self hosted Reps Tools I assure functionality (Mentors)",
           "confidence": "high",
           "metrics": {
             "current": 0.2,
@@ -142,7 +142,7 @@
       {
         "title": "Mozilla General",
         "keyResults": [{
-          "title": "At least 1 Firefox bug fixed per month",
+          "title": "By fixing 20 bugs in Firefox I am confident with the modern Firefox source code",
           "confidence": "high",
           "metrics": {
             "current": 3.5,
@@ -150,14 +150,14 @@
             "correctedFrom": 12
           }
         }, {
-          "title": "Organized at least 6 meetups",
+          "title": "By organizing at least 6 meetups I have impact on the local community",
           "confidence": "middle",
           "metrics": {
             "current": 1,
             "total": 6
           }
         }, {
-          "title": "Run at least 2 small experiments",
+          "title": "By runing at least 2 small experiments I learn how to do useful experiments",
           "confidence": "middle",
           "metrics": {
             "current": 0,
@@ -168,49 +168,57 @@
       {
         "title": "Personal Development",
         "keyResults": [{
-          "title": "Learn Python to fully support OI Products&Engineering (Team Rating)",
+          "title": "By learning Python/Django I can fully support OI Products&Engineering (Team Rating)",
           "confidence": "high",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
-          "title": "Read the JS spec (%)",
+          "title": "By reading the JS spec I can answer more low-level questions about JavaScript",
           "confidence": "middle",
           "metrics": {
             "current": 0,
             "total": 100
           }
         }, {
-          "title": "Use React / Redux for at least 2 projects",
+          "title": "My skillset is more diverse by using React / Redux for at least 2 projects",
           "confidence": "high",
           "metrics": {
             "current": 1,
             "total": 2
           }
         }, {
-          "title": "Read 10 IT related books",
+          "title": "Reading 10 IT related books broadens my horizon on IT topics",
           "confidence": "high",
           "metrics": {
             "current": 3,
             "total": 10
           }
         }, {
-          "title": "Read 4 Strategic Thinking / Coaching / PM books",
+          "title": "Reading 4 Strategic Thinking / Coaching / PM books broadens my horizon on career relevant topics",
           "confidence": "high",
           "metrics": {
             "current": 0,
             "total": 4
           }
         }, {
-          "title": "Join 6 non-Mozilla meetups",
+          "title": "By join 12 non-Mozilla meetups I acquire new capabilities and socialize with new people",
           "confidence": "high",
           "metrics": {
             "current": 0.7,
-            "total": 6
+            "total": 12,
+            "correctedFrom": 6
           }
         }, {
-          "title": "Learn Greek",
+          "title": "Contributing to at least 2 other Open Source Projects than Mozilla helps me put Mozilla in context",
+          "confidence": "high",
+          "metrics": {
+            "current": 0,
+            "total": 2
+          }
+        }, {
+          "title": "Learn Greek allows me to have a good, not too simple conversation",
           "confidence": "high",
           "metrics": {
             "current": 10,
