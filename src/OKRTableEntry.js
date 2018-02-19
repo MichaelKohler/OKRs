@@ -17,6 +17,7 @@ class OKRTableEntry extends React.Component {
         </td>
         <td>{KeyResult.metrics.current}</td>
         <td>{KeyResult.metrics.total}</td>
+        <td>{KeyResult.metrics.correctedFrom}</td>
       </tr>
     );
   }

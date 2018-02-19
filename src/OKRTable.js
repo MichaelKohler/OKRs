@@ -31,6 +31,7 @@ class OKRTable extends React.Component {
               <th>Confidence</th>
               <th>Current</th>
               <th>Total</th>
+              <th>Corrected From</th>
             </tr>
           </thead>
           <tbody>

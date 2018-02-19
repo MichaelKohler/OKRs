@@ -9,7 +9,8 @@
             "confidence": "high",
             "metrics": {
               "current": 8,
-              "total": 6
+              "total": 12,
+              "correctedFrom": 6
             }
           }, {
             "title": "Finish Council accountability definition and suggestions",
@@ -35,7 +36,8 @@
             "confidence": "high",
             "metrics": {
               "current": 3.5,
-              "total": 3
+              "total": 5,
+              "correctedFrom": 3
             }
           }, {
             "title": "Organize informal Mozilla Bern meetup",
@@ -90,7 +92,8 @@
             "confidence": "high",
             "metrics": {
               "current": 0.7,
-              "total": 1
+              "total": 2,
+              "correctedFrom": 1
             }
           }, {
             "title": "Understand basic grammar and 150 words in Greek",
@@ -143,7 +146,8 @@
           "confidence": "high",
           "metrics": {
             "current": 3.5,
-            "total": 12
+            "total": 20,
+            "correctedFrom": 12
           }
         }, {
           "title": "Organized at least 6 meetups",
