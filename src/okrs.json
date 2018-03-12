@@ -9,18 +9,18 @@
             "confidence": "high",
             "metrics": {
               "current": 8,
-              "total": 12,
+              "total": 9,
               "correctedFrom": 6
             }
           }, {
-            "title": "Council is accountable and knows what to expect and therefore is a better foundation",
-            "confidence": "high",
+            "title": "Council is accountable and knows what to expect and therefore has a better foundation",
+            "confidence": "middle",
             "metrics": {
               "current": 40,
               "total": 100
             }
           }, {
-            "title": "Everybody can make better decisions based on Mentors Overview directoy on the Reps Portal",
+            "title": "Everybody can make better decisions based on Mentors Overview directory on the Reps Portal",
             "confidence": "middle",
             "tendency": "↑",
             "metrics": {
@@ -32,11 +32,11 @@
         {
           "title": "Mozilla General",
           "keyResults": [{
-            "title": "By fix 5 Firefox bugs I have a general understanding of modern Firefox source code",
+            "title": "By fixing 4 Firefox bugs I have a general understanding of modern Firefox source code",
             "confidence": "high",
             "metrics": {
               "current": 3.5,
-              "total": 5,
+              "total": 4,
               "correctedFrom": 3
             }
           }, {
@@ -48,16 +48,16 @@
             }
           }, {
             "title": "By helping Martin organize a ZH meetup I continue the knowledge transfer",
-            "confidence": "high",
+            "confidence": "low",
             "metrics": {
               "current": 5,
               "total": 100
             }
           }, {
-            "title": "I tell the world how I came to Mozilla with 10 years Mozilla blogpost written",
+            "title": "I tell the world how I came to Mozilla with a 10 years Mozilla blogpost",
             "confidence": "high",
             "metrics": {
-              "current": 10,
+              "current": 20,
               "total": 100
             }
           }]
@@ -65,16 +65,16 @@
         {
           "title": "Personal Development",
           "keyResults": [{
-            "title": "Read Design Pattern / Full Stack React / Django book / Bitcoin Book Princeton allow me to get a broader view",
-            "confidence": "high",
+            "title": "Reading Design Pattern / Full Stack React / Django book / Bitcoin Book Princeton allows me to get a broader view",
+            "confidence": "middle",
             "tendency": "↓",
             "metrics": {
               "current": 3,
               "total": 4
             }
           }, {
-            "title": "By read Tao of Coaching I fresh up on coaching tactics",
-            "confidence": "middle",
+            "title": "By reading Tao of Coaching I fresh up on coaching tactics",
+            "confidence": "low",
             "tendency": "↓",
             "metrics": {
               "current": 0,
@@ -88,10 +88,10 @@
               "total": 100
             }
           }, {
-            "title": "By joining 1 non-Mozilla meetup I learned something I haven't known before",
+            "title": "By joining 2 non-Mozilla meetup I learned something I haven't known before",
             "confidence": "high",
             "metrics": {
-              "current": 0.7,
+              "current": 1.2,
               "total": 2,
               "correctedFrom": 1
             }
@@ -157,7 +157,7 @@
             "total": 6
           }
         }, {
-          "title": "By runing at least 2 small experiments I learn how to do useful experiments",
+          "title": "By running at least 2 small experiments I learn how to do useful experiments",
           "confidence": "middle",
           "metrics": {
             "current": 0,
@@ -182,7 +182,7 @@
             "total": 100
           }
         }, {
-          "title": "My skillset is more diverse by using React / Redux for at least 2 projects",
+          "title": "My skillset is more diverse by using React / Vue for at least 2 projects",
           "confidence": "high",
           "metrics": {
             "current": 1,
@@ -203,10 +203,10 @@
             "total": 4
           }
         }, {
-          "title": "By join 12 non-Mozilla meetups I acquire new capabilities and socialize with new people",
+          "title": "By joining 12 non-Mozilla meetups I acquire new capabilities and socialize with new people",
           "confidence": "high",
           "metrics": {
-            "current": 0.7,
+            "current": 1.2,
             "total": 12,
             "correctedFrom": 6
           }
@@ -218,7 +218,7 @@
             "total": 2
           }
         }, {
-          "title": "Learn Greek allows me to have a good, not too simple conversation",
+          "title": "Learning Greek allows me to have a good, not too simple conversation",
           "confidence": "high",
           "metrics": {
             "current": 10,
