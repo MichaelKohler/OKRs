@@ -1,6 +1,107 @@
 {
   "2018": {
     "quarters": {
+      "Q2": [
+        {
+          "title": "Improve knowledge about Mozilla code and make Reps a more productive program",
+          "keyResults": [{
+            "title": "Fixing 3 Firefox bugs further increases my capability to code on big source code repos",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 3
+            }
+          }, {
+            "title": "Help organize 2 events in Berlin helps me to have initial impact onto the local community",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 2
+            }
+          }, {
+            "title": "Fix 10 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 10
+            }
+          }, {
+            "title": "Improve Experiment capability with a Council related experiment (%)",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }]
+        },
+        {
+          "title": "Improve major capabilities by reading, learning and applying new principles",
+          "keyResults": [{
+            "title": "Learn more Python reading 'Two Scoops of Django'",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Learn about new topics by watching 20 videos from conferences",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 20
+            }
+          }, {
+            "title": "Learn a new perspective on Open Source by reading 'Producing Open Source Software' (%)",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Better Reps Coaching relationships by using tactics from 'Tao of Coaching' (%)",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Broaden my horizon on JavaScript by attending 4 non-Mozilla meetups",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 4
+            }
+          }, {
+            "title": "Get a better grasp on React and learn RxJS by creating 1 personal project (%)",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Improved Remote Working capabilities by starting work at 10 o'clock (%)",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Set up Media Center Solution - for reasons :)",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Finishing 1/3 of the Greek Learning Book allows me to know more advanced grammar (%)",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }]
+        }
+      ],
       "Q1": [
         {
           "title": "Mozilla Reps",

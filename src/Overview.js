@@ -8,6 +8,9 @@ class Overview extends React.Component {
       <div className="container">
         <section>
           {/* <!-- TODO: make more dynamic with routing? */}
+          <h1>2018 - Q2</h1>
+          { OKRs['2018'].quarters.Q2.map((OKR) => { return <OKRTable key={OKR.title} OKR={OKR} />; }) }
+
           <h1>2018 - Q1</h1>
           { OKRs['2018'].quarters.Q1.map((OKR) => { return <OKRTable key={OKR.title} OKR={OKR} />; }) }
 
