@@ -35,7 +35,7 @@
             "title": "By fixing 4 Firefox bugs I have a general understanding of modern Firefox source code",
             "confidence": "high",
             "metrics": {
-              "current": 3.5,
+              "current": 3.75,
               "total": 4,
               "correctedFrom": 3
             }
@@ -67,7 +67,6 @@
           "keyResults": [{
             "title": "Reading Design Pattern / Full Stack React / Django book / Learning Python allows me to get a broader view",
             "confidence": "middle",
-            "tendency": "↑",
             "metrics": {
               "current": 3,
               "total": 4
@@ -75,7 +74,6 @@
           }, {
             "title": "By reading Tao of Coaching I fresh up on coaching tactics",
             "confidence": "low",
-            "tendency": "↓",
             "metrics": {
               "current": 0,
               "total": 100
@@ -91,7 +89,7 @@
             "title": "By joining 2 non-Mozilla meetup I learned something I haven't known before",
             "confidence": "high",
             "metrics": {
-              "current": 1.5,
+              "current": 2,
               "total": 2,
               "correctedFrom": 1
             }
