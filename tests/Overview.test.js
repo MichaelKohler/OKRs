@@ -7,8 +7,8 @@ import Overview from '../src/Overview';
 configure({ adapter: new Adapter() });
 
 describe('Overview', () => {
-  it('should render at least one OKR table', () => {
-    expect(shallow(<Overview />).find('OKRTable').length).toBe(6);
+  it('should render all OKR tables', () => {
+    expect(shallow(<Overview />).find('OKRTable').length).toBe(8);
   });
 
   it('should be wrapped in container class element', () => {
