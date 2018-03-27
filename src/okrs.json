@@ -109,7 +109,7 @@
             "title": "By fixing 9 Reps Portal bugs I have a good understanding of the Reps Portal code",
             "confidence": "high",
             "metrics": {
-              "current": 11,
+              "current": 12,
               "total": 9,
               "correctedFrom": 6
             }
@@ -125,7 +125,7 @@
             "confidence": "middle",
             "tendency": "↑",
             "metrics": {
-              "current": 20,
+              "current": 95,
               "total": 100
             }
           }]
@@ -169,7 +169,7 @@
             "title": "Reading Design Pattern / Full Stack React / Django book / Learning Python allows me to get a broader view",
             "confidence": "middle",
             "metrics": {
-              "current": 3,
+              "current": 3.3,
               "total": 4
             }
           }, {
@@ -233,7 +233,7 @@
           "title": "By migrating self hosted Reps Tools I assure functionality (Mentors)",
           "confidence": "high",
           "metrics": {
-            "current": 0.2,
+            "current": 0.95,
             "total": 1
           }
         }]
@@ -281,7 +281,7 @@
             "total": 100
           }
         }, {
-          "title": "My skillset is more diverse by using React / Vue for at least 2 projects",
+          "title": "My skillset is more diverse by using React or Vue for at least 2 projects",
           "confidence": "high",
           "metrics": {
             "current": 1,
@@ -291,7 +291,7 @@
           "title": "Reading 10 IT related books broadens my horizon on IT topics",
           "confidence": "high",
           "metrics": {
-            "current": 3,
+            "current": 3.3,
             "total": 10
           }
         }, {
@@ -305,7 +305,7 @@
           "title": "By joining 12 non-Mozilla meetups I acquire new capabilities and socialize with new people",
           "confidence": "high",
           "metrics": {
-            "current": 1.5,
+            "current": 2,
             "total": 12,
             "correctedFrom": 6
           }
