@@ -19,14 +19,15 @@
               "total": 2
             }
           }, {
-            "title": "Fix 10 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
+            "title": "Fixing 10 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
             "confidence": "high",
             "metrics": {
-              "current": 0,
-              "total": 10
+              "current": 4,
+              "total": 15,
+              "correctedFrom": 10
             }
           }, {
-            "title": "Improve Experiment capability with a Council related experiment (%)",
+            "title": "Improve Experiment capability with a Reps related experiment (%)",
             "confidence": "high",
             "metrics": {
               "current": 0,
@@ -89,7 +90,7 @@
             "title": "Set up Media Center Solution - for reasons :)",
             "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 100,
               "total": 100
             }
           }, {
@@ -233,8 +234,8 @@
           "title": "By migrating self hosted Reps Tools I assure functionality (Mentors)",
           "confidence": "high",
           "metrics": {
-            "current": 0.95,
-            "total": 1
+            "current": 100,
+            "total": 100
           }
         }]
       },
@@ -281,7 +282,7 @@
             "total": 100
           }
         }, {
-          "title": "My skillset is more diverse by using React or Vue for at least 2 projects",
+          "title": "My skillset is more diverse by using React for at least 2 projects",
           "confidence": "high",
           "metrics": {
             "current": 1,
@@ -306,7 +307,7 @@
           "confidence": "high",
           "metrics": {
             "current": 2,
-            "total": 12,
+            "total": 10,
             "correctedFrom": 6
           }
         }, {
