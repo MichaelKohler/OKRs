@@ -5,11 +5,12 @@
         {
           "title": "Improve knowledge about Mozilla code and make Reps a more productive program",
           "keyResults": [{
-            "title": "Fixing 3 Firefox bugs further increases my capability to code on big source code repos",
+            "title": "Fixing 5 Firefox bugs further increases my capability to code on big source code repos",
             "confidence": "high",
             "metrics": {
-              "current": 0,
-              "total": 3
+              "current": 2,
+              "total": 5,
+              "correctedFrom": 3
             }
           }, {
             "title": "Help organize 2 events in Berlin helps me to have initial impact onto the local community",
@@ -19,10 +20,10 @@
               "total": 2
             }
           }, {
-            "title": "Fixing 10 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
+            "title": "Fixing 15 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
             "confidence": "high",
             "metrics": {
-              "current": 4,
+              "current": 5,
               "total": 15,
               "correctedFrom": 10
             }
@@ -48,7 +49,7 @@
             "title": "Learn about new topics by watching 20 videos from conferences",
             "confidence": "high",
             "metrics": {
-              "current": 3,
+              "current": 9,
               "total": 20
             }
           }, {
@@ -66,7 +67,7 @@
               "total": 100
             }
           }, {
-            "title": "Broaden my horizon on JavaScript by attending 4 non-Mozilla meetups",
+            "title": "Broaden my horizon on JavaScript by attending meetups",
             "confidence": "high",
             "metrics": {
               "current": 0,
@@ -74,14 +75,14 @@
             }
           }, {
             "title": "Get a better grasp on React and learn RxJS by creating 1 personal project (%)",
-            "confidence": "high",
+            "confidence": "middle",
             "metrics": {
               "current": 0,
               "total": 100
             }
           }, {
             "title": "Improved Remote Working capabilities by starting work at 10 o'clock (%)",
-            "confidence": "high",
+            "confidence": "middle",
             "metrics": {
               "current": 0,
               "total": 100
