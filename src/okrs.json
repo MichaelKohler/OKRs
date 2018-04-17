@@ -8,7 +8,7 @@
             "title": "Fixing 5 Firefox bugs further increases my capability to code on big source code repos",
             "confidence": "high",
             "metrics": {
-              "current": 3,
+              "current": 4,
               "total": 5,
               "correctedFrom": 3
             }
