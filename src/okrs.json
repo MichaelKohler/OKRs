@@ -31,7 +31,7 @@
             "title": "Improve Experiment capability with a Reps related experiment (%)",
             "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 2,
               "total": 100
             }
           }]
@@ -42,14 +42,14 @@
             "title": "Learn more Python reading 'Two Scoops of Django'",
             "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 30,
               "total": 100
             }
           }, {
             "title": "Learn about new topics by watching 20 videos from conferences",
             "confidence": "high",
             "metrics": {
-              "current": 9,
+              "current": 10,
               "total": 20
             }
           }, {
@@ -246,7 +246,7 @@
           "title": "By fixing 20 bugs in Firefox I am confident with the modern Firefox source code",
           "confidence": "high",
           "metrics": {
-            "current": 6.5,
+            "current": 6.75,
             "total": 20,
             "correctedFrom": 12
           }
@@ -293,7 +293,7 @@
           "title": "Reading 10 IT related books broadens my horizon on IT topics",
           "confidence": "high",
           "metrics": {
-            "current": 3.3,
+            "current": 4.3,
             "total": 10
           }
         }, {
