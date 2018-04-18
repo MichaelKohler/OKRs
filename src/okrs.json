@@ -23,7 +23,7 @@
             "title": "Fixing 15 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
             "confidence": "high",
             "metrics": {
-              "current": 6,
+              "current": 12,
               "total": 15,
               "correctedFrom": 10
             }
