@@ -42,7 +42,7 @@
             "title": "Learn more Python reading 'Two Scoops of Django'",
             "confidence": "high",
             "metrics": {
-              "current": 30,
+              "current": 40,
               "total": 100
             }
           }, {
@@ -74,17 +74,17 @@
               "total": 4
             }
           }, {
-            "title": "Get a better grasp on React and learn RxJS by creating 1 personal project (%)",
-            "confidence": "middle",
+            "title": "Get a better grasp on React and learn the basics of D3 by creating 1 project (%)",
+            "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 5,
               "total": 100
             }
           }, {
             "title": "Improved Remote Working capabilities by starting work at 10 o'clock (%)",
             "confidence": "middle",
             "metrics": {
-              "current": 0,
+              "current": 50,
               "total": 100
             }
           }, {
