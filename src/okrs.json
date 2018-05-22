@@ -8,7 +8,7 @@
             "title": "Fixing 5 Firefox bugs further increases my capability to code on big source code repos",
             "confidence": "high",
             "metrics": {
-              "current": 5.5,
+              "current": 6,
               "total": 5,
               "correctedFrom": 3
             }
@@ -16,14 +16,14 @@
             "title": "Help organize 2 events in Berlin helps me to have initial impact onto the local community",
             "confidence": "high",
             "metrics": {
-              "current": 1,
+              "current": 2,
               "total": 2
             }
           }, {
             "title": "Fixing 15 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
             "confidence": "high",
             "metrics": {
-              "current": 12,
+              "current": 14,
               "total": 15,
               "correctedFrom": 10
             }
@@ -49,7 +49,7 @@
             "title": "Learn about new topics by watching 20 videos from conferences",
             "confidence": "high",
             "metrics": {
-              "current": 12,
+              "current": 14,
               "total": 20
             }
           }, {
@@ -70,7 +70,7 @@
             "title": "Broaden my horizon on JavaScript by attending meetups",
             "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 1,
               "total": 4
             }
           }, {
@@ -84,7 +84,7 @@
             "title": "Improved Remote Working capabilities by starting work at 10 o'clock (%)",
             "confidence": "middle",
             "metrics": {
-              "current": 50,
+              "current": 45,
               "total": 100
             }
           }, {
@@ -246,7 +246,7 @@
           "title": "By fixing 20 bugs in Firefox I am confident with the modern Firefox source code",
           "confidence": "high",
           "metrics": {
-            "current": 7.75,
+            "current": 9.75,
             "total": 20,
             "correctedFrom": 12
           }
@@ -254,7 +254,7 @@
           "title": "By organizing at least 6 meetups I have impact on the local community",
           "confidence": "middle",
           "metrics": {
-            "current": 2,
+            "current": 3,
             "total": 6
           }
         }, {
