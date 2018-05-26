@@ -16,7 +16,7 @@
             "title": "Help organize 2 events in Berlin helps me to have initial impact onto the local community",
             "confidence": "high",
             "metrics": {
-              "current": 2,
+              "current": 4,
               "total": 2
             }
           }, {
@@ -49,7 +49,7 @@
             "title": "Learn about new topics by watching 20 videos from conferences",
             "confidence": "high",
             "metrics": {
-              "current": 14,
+              "current": 15,
               "total": 20
             }
           }, {
@@ -70,7 +70,7 @@
             "title": "Broaden my horizon on JavaScript by attending meetups",
             "confidence": "high",
             "metrics": {
-              "current": 1,
+              "current": 2,
               "total": 4
             }
           }, {
@@ -254,7 +254,7 @@
           "title": "By organizing at least 6 meetups I have impact on the local community",
           "confidence": "middle",
           "metrics": {
-            "current": 3,
+            "current": 5,
             "total": 6
           }
         }, {
@@ -307,7 +307,7 @@
           "title": "By joining 12 non-Mozilla meetups I acquire new capabilities and socialize with new people",
           "confidence": "high",
           "metrics": {
-            "current": 2,
+            "current": 3,
             "total": 10,
             "correctedFrom": 6
           }
