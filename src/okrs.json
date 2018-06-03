@@ -23,7 +23,7 @@
             "title": "Fixing 15 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
             "confidence": "high",
             "metrics": {
-              "current": 14,
+              "current": 15,
               "total": 15,
               "correctedFrom": 10
             }
@@ -70,14 +70,14 @@
             "title": "Broaden my horizon on JavaScript by attending meetups",
             "confidence": "high",
             "metrics": {
-              "current": 2,
+              "current": 3,
               "total": 4
             }
           }, {
             "title": "Get a better grasp of Vue.js and learn the basics of data visualization by creating 1 project (%)",
             "confidence": "high",
             "metrics": {
-              "current": 60,
+              "current": 95,
               "total": 100
             }
           }, {
@@ -246,7 +246,7 @@
           "title": "By fixing 20 bugs in Firefox I am confident with the modern Firefox source code",
           "confidence": "high",
           "metrics": {
-            "current": 9.75,
+            "current": 10,
             "total": 20,
             "correctedFrom": 12
           }
@@ -307,7 +307,7 @@
           "title": "By joining 12 non-Mozilla meetups I acquire new capabilities and socialize with new people",
           "confidence": "high",
           "metrics": {
-            "current": 3,
+            "current": 4,
             "total": 10,
             "correctedFrom": 6
           }
