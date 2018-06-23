@@ -1,6 +1,83 @@
 {
   "2018": {
     "quarters": {
+      "Q3": [
+        {
+          "title": "Bring the Reps Program to the next level (as a Peer / Dev)",
+          "keyResults": [{
+            "title": "All P1 bugs for the Reps Portal are fixed and the mozillians.org profile migration is well supported",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Council elections for end of September are prepared and we have the tools to do metrics",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Reps Peers' interaction with Council is formally defined",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Reps Council accountability is formally improved",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }]
+        },
+        {
+          "title": "General Mozilla contributions help me grow my skills",
+          "keyResults": [{
+            "title": "Further contribute to Firefox by providing patches",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 4
+            }
+          }, {
+            "title": "Improve the Campaign Template to allow easier forks and better grassroot campaigns",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }, {
+            "title": "Organize two meetups in Berlin apart from the regular Open Nights",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 2
+            }
+          }, {
+            "title": "Bring down Reps mentee number to a manageable number",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }]
+        },
+        {
+          "title": "Personal Development",
+          "keyResults": [{
+            "title": "1/3 of Greek book learned",
+            "confidence": "high",
+            "metrics": {
+              "current": 0,
+              "total": 100
+            }
+          }]
+        }
+      ],
       "Q2": [
         {
           "title": "Improve knowledge about Mozilla code and make Reps a more productive program",
