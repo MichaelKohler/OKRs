@@ -23,7 +23,7 @@
             "title": "Fixing 15 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
             "confidence": "high",
             "metrics": {
-              "current": 15,
+              "current": 16,
               "total": 15,
               "correctedFrom": 10
             }
@@ -31,7 +31,7 @@
             "title": "Improve Experiment capability with a Reps related experiment (%)",
             "confidence": "middle",
             "metrics": {
-              "current": 2,
+              "current": 90,
               "total": 100
             }
           }]
@@ -49,7 +49,7 @@
             "title": "Learn about new topics by watching 20 videos from conferences",
             "confidence": "high",
             "metrics": {
-              "current": 15,
+              "current": 18,
               "total": 20
             }
           }, {
