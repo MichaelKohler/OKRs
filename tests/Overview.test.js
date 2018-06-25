@@ -8,7 +8,7 @@ configure({ adapter: new Adapter() });
 
 describe('Overview', () => {
   it('should render all OKR tables', () => {
-    expect(shallow(<Overview />).find('OKRTable').length).toBe(8);
+    expect(shallow(<Overview />).find('OKRTable').length).toBe(11);
   });
 
   it('should be wrapped in container class element', () => {
