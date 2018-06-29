@@ -47,7 +47,7 @@
             "title": "Improve the Campaign Template to allow easier forks and better grassroot campaigns",
             "confidence": "high",
             "metrics": {
-              "current": 0,
+              "current": 2,
               "total": 100
             }
           }, {
@@ -100,7 +100,7 @@
             "title": "Fixing 15 Reps Portal bugs allows me to bring Reps forward and give them the quality they need",
             "confidence": "high",
             "metrics": {
-              "current": 16,
+              "current": 17,
               "total": 15,
               "correctedFrom": 10
             }
@@ -126,7 +126,7 @@
             "title": "Learn about new topics by watching 20 videos from conferences",
             "confidence": "high",
             "metrics": {
-              "current": 18,
+              "current": 22,
               "total": 20
             }
           }, {
@@ -161,7 +161,7 @@
             "title": "Improved Remote Working capabilities by starting work at 10 o'clock (%)",
             "confidence": "middle",
             "metrics": {
-              "current": 45,
+              "current": 40,
               "total": 100
             }
           }, {
